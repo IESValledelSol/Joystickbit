@@ -20,4 +20,10 @@ colour = 0
 basic.forever(function () {
     radio.sendValue("X", joystickbit.getRockerValue(joystickbit.rockerType.X))
     radio.sendValue("Y", joystickbit.getRockerValue(joystickbit.rockerType.Y))
+    if (joystickbit.getButton(joystickbit.JoystickBitPin.P12)) {
+        radio.sendValue("C", 0)
+    }
+    if (joystickbit.getButton(joystickbit.JoystickBitPin.P15)) {
+        radio.sendValue("F", 0)
+    }
 })
