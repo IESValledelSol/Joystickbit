@@ -14,6 +14,7 @@ joystickbit.onButtonEvent(joystickbit.JoystickBitPin.P13, joystickbit.ButtonType
     }
 })
 let colour = 0
+basic.showIcon(IconNames.Yes)
 joystickbit.initJoystickBit()
 radio.setGroup(23)
 colour = 0
