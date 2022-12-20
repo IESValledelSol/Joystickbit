@@ -19,7 +19,7 @@ joystickbit.initJoystickBit()
 radio.setGroup(23)
 colour = 0
 // If a tool is used change the value to 1
-// If a tool as a excavator shovel is installed on servo S2, the 'C' and 'F' button will be used to move it.
+// If a tool as a excavator bucket is installed on servo S2, the 'C' and 'F' button will be used to move it.
 // 
 // Otherwise the 'C' and 'F' button will move the camera on servo S1
 let tool = 0
