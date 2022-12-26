@@ -1,8 +1,4 @@
 
-> Open this page at [https://tecnoprofesor.github.io/cutebotjoystick/](https://tecnoprofesor.github.io/cutebotjoystick/)
-
-## Use as Extension
-
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
