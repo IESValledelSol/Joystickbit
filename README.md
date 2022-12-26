@@ -1,12 +1,5 @@
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tecnoprofesor/VGERJoystick** and import
-
-## Edit this project ![Build status badge](https://github.com/tecnoprofesor/cutebotjoystick/workflows/MakeCode/badge.svg)
+## Edit this project
 
 To edit this repository in MakeCode.
 
@@ -19,7 +12,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/tecnoprofesor/cutebotjoystick/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/tecnoprofesor/VGERJoystick/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
